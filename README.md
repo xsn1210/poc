@@ -1,12 +1,12 @@
 Vulnerability submitted by Shuning Xu
 
-Supplier: https://www.atlassian.com/zh/software/jira
+Supplier:https://www.atlassian.com/software/jira
 
 Software download link: https://www.atlassian.com/software/jira/update
 
 Affected software :jira software
 
-Vulnerability plug-in name: timetrackers - Time Tracking & Reporting for Jira
+Vulnerability plugin name: timetrackers - Time Tracking & Reporting for Jira
 
 Vulnerability plugin Version: Version 5.2.0•Jira Data Center 9.0.0-9.10.1
 
